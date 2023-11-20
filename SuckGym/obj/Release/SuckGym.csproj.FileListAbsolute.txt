@@ -1,0 +1,16 @@
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\obj\Release\SuckGym.csprojResolveAssemblyReference.cache
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\obj\Release\SuckGym.Add.resources
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\obj\Release\SuckGym.Admin.resources
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\obj\Release\SuckGym.Form1.resources
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\obj\Release\SuckGym.Properties.Resources.resources
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\obj\Release\SuckGym.User.resources
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\obj\Release\SuckGym.csproj.GenerateResource.Cache
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\bin\Release\BillyGym.exe.config
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\bin\Release\BillyGym.exe.manifest
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\bin\Release\BillyGym.application
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\bin\Release\BillyGym.exe
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\bin\Release\BillyGym.pdb
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\obj\Release\BillyGym.exe.manifest
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\obj\Release\BillyGym.application
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\obj\Release\BillyGym.exe
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\obj\Release\BillyGym.pdb
