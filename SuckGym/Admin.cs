@@ -1,13 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
+using System.Drawing.Printing;
+using System.Diagnostics;
+using System.ComponentModel;
+
+
 
 namespace SuckGym
 {
@@ -20,6 +20,7 @@ namespace SuckGym
         {
             InitializeComponent();
             SetupDataGridView();
+            this.label1.Hide();
 
         }
 
@@ -128,5 +129,52 @@ namespace SuckGym
         {
 
         }
-    }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            string res = "Вот список активных участников: \n";
+            foreach (DataGridViewRow row in this.dataGridView1.SelectedRows)
+            {
+                if (row.Cells[5].Value.ToString() != "просрочен")
+                {
+                    foreach (DataGridViewCell cell in row.Cells)
+                    {
+                        res += cell.Value + " ";
+
+                    }
+                    res += "\n";
+                }
+                
+                
+            }
+            this.label1.Text = res;
+           
+                string directory = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments)+@"\otchet";
+                string file = "otchet.pdf";
+
+                PrintDocument pDoc = new PrintDocument()
+                {
+                    PrinterSettings = new PrinterSettings()
+                    {
+                        PrinterName = "Microsoft Print to PDF",
+                        PrintToFile = true,
+                        PrintFileName = System.IO.Path.Combine(directory, file),
+                    }
+                };
+
+                pDoc.PrintPage += new PrintPageEventHandler(Print_Page);
+                pDoc.Print();
+                Process.Start(directory+@"\otchet.pdf");
+            }
+
+            void Print_Page( object sender, PrintPageEventArgs e)
+            {
+    
+            Font fnt = new Font("Times New Roman", 14);
+
+    
+            e.Graphics.DrawString(this.label1.Text, fnt, System.Drawing.Brushes.Black, 0, 0);
+                }
+        }
+    
 }

@@ -1,15 +1,19 @@
-c:\users\dippe\onedrive\документы\visual studio 2015\Projects\SuckGym\SuckGym\bin\Debug\SuckGym.exe.config
-c:\users\dippe\onedrive\документы\visual studio 2015\Projects\SuckGym\SuckGym\bin\Debug\SuckGym.exe
-c:\users\dippe\onedrive\документы\visual studio 2015\Projects\SuckGym\SuckGym\bin\Debug\SuckGym.pdb
 c:\users\dippe\onedrive\документы\visual studio 2015\Projects\SuckGym\SuckGym\obj\Debug\SuckGym.csprojResolveAssemblyReference.cache
 c:\users\dippe\onedrive\документы\visual studio 2015\Projects\SuckGym\SuckGym\obj\Debug\SuckGym.Form1.resources
 c:\users\dippe\onedrive\документы\visual studio 2015\Projects\SuckGym\SuckGym\obj\Debug\SuckGym.Properties.Resources.resources
 c:\users\dippe\onedrive\документы\visual studio 2015\Projects\SuckGym\SuckGym\obj\Debug\SuckGym.csproj.GenerateResource.Cache
-c:\users\dippe\onedrive\документы\visual studio 2015\Projects\SuckGym\SuckGym\obj\Debug\SuckGym.exe
-c:\users\dippe\onedrive\документы\visual studio 2015\Projects\SuckGym\SuckGym\obj\Debug\SuckGym.pdb
 C:\Users\dippe\OneDrive\документы\visual studio 2015\Projects\SuckGym\SuckGym\obj\Debug\SuckGym.Admin.resources
 C:\Users\dippe\OneDrive\документы\visual studio 2015\Projects\SuckGym\SuckGym\obj\Debug\SuckGym.Add.resources
 C:\Users\dippe\OneDrive\Рабочий стол\SuckGym\SuckGym\bin\Debug\SuckGym.exe.config
 C:\Users\dippe\OneDrive\Рабочий стол\SuckGym\SuckGym\obj\Debug\SuckGym.exe
 C:\Users\dippe\OneDrive\Рабочий стол\SuckGym\SuckGym\obj\Debug\SuckGym.pdb
 C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\obj\Debug\SuckGym.User.resources
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\bin\Debug\BillyGym.exe.config
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\bin\Debug\BillyGym.exe.manifest
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\bin\Debug\BillyGym.application
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\bin\Debug\BillyGym.exe
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\bin\Debug\BillyGym.pdb
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\obj\Debug\BillyGym.exe.manifest
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\obj\Debug\BillyGym.application
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\obj\Debug\BillyGym.exe
+C:\Users\dippe\OneDrive\Документы\Visual Studio 2015\Projects\SuckGym\SuckGym\obj\Debug\BillyGym.pdb
